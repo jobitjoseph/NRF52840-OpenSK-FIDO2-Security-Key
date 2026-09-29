@@ -1,0 +1,4 @@
+(sym_lib_table
+	(version 7)
+	(lib (name "OpenSK") (type "KiCad") (uri "${KIPRJMOD}/OpenSK.pretty/OpenSK.kicad_sym") (options "") (descr ""))
+)
